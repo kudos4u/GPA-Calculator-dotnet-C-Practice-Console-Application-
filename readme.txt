@@ -23,6 +23,5 @@ Output: Console output shows student information, course grades, and the final c
 Development Notes
 Created using Visual Studio's .NET IDE while training on FreeCodeCamp.org in persuit of the Foundational C# with Microsoft crtification.
 This project was part of practicing C# fundamentals and utilized concepts like variable declaration, arithmetic operations, and string interpolation.
-Feel free to adjust and enhance this README file to include any additional information or details specific to your project!
 
 Uploaded to github by kudos4u.
